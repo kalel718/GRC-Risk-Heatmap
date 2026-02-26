@@ -37,7 +37,7 @@ Upload your risk register as a CSV or use the built-in synthetic dataset.
 Run the cells to generate your updated Risk Heatmap.
 
 
-<img width="842" height="707" alt="heat_output" src="https://github.com/user-attachments/assets/39f7d865-aab4-4322-a2af-47e547a18f9d" />
+
 <img width="649" height="553" alt="heat_map" src="https://github.com/user-attachments/assets/ad7a3a83-d7ea-41c1-80a0-dfd640b125be" />
 
 
